@@ -1,0 +1,7 @@
+"HeroRP"
+{
+	"base"		"base"
+	"title"		"HeroRP"
+	"maps"		"^rp_|^gm_"
+	"menusystem"	"1"
+}
